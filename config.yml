@@ -1,0 +1,13 @@
+gns3_server:
+gns3_port: 
+gns3_token: 
+project_name: 
+nodes:
+  - appliance_name: 
+    count: 
+  - appliance_name: 
+    count: 
+links:
+  - source: 
+    target: 
+    count: 
